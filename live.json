@@ -1,0 +1,1405 @@
+﻿[
+  {
+    "channel": [
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv051"
+        ],
+        "number": "006",
+        "logo": "ftv.png",
+        "epg": "民視",
+        "name": "民視"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/live/chunklist.m3u8"
+        ],
+        "number": "007",
+        "logo": "bltv.png",
+        "epg": "人間衛視",
+        "name": "人間衛視",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv071"
+        ],
+        "number": "008",
+        "logo": "ttv.png",
+        "epg": "台視",
+        "name": "台視"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/di/chunklist.m3u8"
+        ],
+        "number": "009",
+        "logo": "daai.png",
+        "epg": "大愛",
+        "name": "大愛",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv091"
+        ],
+        "number": "010",
+        "logo": "ctv.png",
+        "epg": "中視",
+        "name": "中視"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8"
+        ],
+        "number": "012",
+        "logo": "cts.png",
+        "epg": "華視",
+        "name": "華視"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/goodtv1/chunklist.m3u8"
+        ],
+        "number": "015",
+        "logo": "good.png",
+        "epg": "好消息",
+        "name": "好消息",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/hakkatv/chunklist.m3u8"
+        ],
+        "number": "017",
+        "logo": "hakka.png",
+        "epg": "客家電視台",
+        "name": "客家電視台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8550/http/61.221.81.94:8088/hls/71/813/ch44.m3u8"
+        ],
+        "number": "019",
+        "logo": "discovery.png",
+        "epg": "Discovery",
+        "name": "Discovery"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8570/http/61.221.81.94:8088/hls/70/812/ch38.m3u8"
+        ],
+        "number": "020",
+        "logo": "tlc.png",
+        "epg": "旅遊生活",
+        "name": "旅遊生活"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8"
+        ],
+        "number": "021",
+        "logo": "animal-planet.png",
+        "epg": "動物星球",
+        "name": "動物星球"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8550/http/61.221.81.94:8088/hls/70/812/ch40.m3u8
+"
+        ],
+        "number": "024",
+        "logo": "momo-kids.png",
+        "epg": "MOMO親子台",
+        "name": "MOMO親子台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8"
+        ],
+        "number": "025",
+        "logo": "yoyo.png",
+        "epg": "東森幼幼台",
+        "name": "東森幼幼台"
+      },
+      {
+        "urls": [
+          "http://z02.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8"
+        ],
+        "number": "026",
+        "logo": "vl.png",
+        "epg": "緯來綜合台",
+        "name": "緯來綜合台"
+      },
+      {
+        "urls": [
+          "http://61.221.215.25:8800/hls/55/index.m3u8"
+        ],
+        "number": "027",
+        "logo": "gtv.png",
+        "epg": "八大第一台",
+        "name": "八大第一台"
+      },
+      {
+        "urls": [
+          "http://61.221.215.25:8800/hls/56/index.m3u8"
+        ],
+        "number": "028",
+        "logo": "gtv.png",
+        "epg": "八大綜合台",
+        "name": "八大綜合台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8"
+        ],
+        "number": "029",
+        "logo": "set.png",
+        "epg": "三立台灣台",
+        "name": "三立台灣台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8"
+        ],
+        "number": "030",
+        "logo": "set.png",
+        "epg": "三立都會台",
+        "name": "三立都會台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8"
+        ],
+        "number": "032",
+        "logo": "ebc.png",
+        "epg": "東森綜合台",
+        "name": "東森綜合台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv331"
+        ],
+        "number": "033",
+        "logo": "ebc.png",
+        "epg": "東森超視台",
+        "name": "東森超視台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8"
+        ],
+        "number": "036",
+        "logo": "cti.png",
+        "epg": "中天綜合台",
+        "name": "中天綜合台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8550/http/60.251.39.91:8081/hls/67/809/ch26.m3u8"
+        ],
+        "number": "039",
+        "logo": "cti.png",
+        "epg": "中天娛樂台",
+        "name": "中天娛樂台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8"
+        ],
+        "number": "040",
+        "logo": "ebc.png",
+        "epg": "東森戲劇台",
+        "name": "東森戲劇台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8"
+        ],
+        "number": "041",
+        "logo": "gtv.png",
+        "epg": "八大戲劇台",
+        "name": "八大戲劇台"
+      },
+      {
+        "urls": [
+          "http://125.227.210.55:8187/VideoInput/play.ts"
+        ],
+        "number": "042",
+        "logo": "tvbs.png",
+        "epg": "TVBS歡樂台",
+        "name": "TVBS歡樂台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/globalnewstv1/playlist.m3u8"
+        ],
+        "number": "048",
+        "logo": "global-news.png",
+        "epg": "寰宇新聞台",
+        "name": "寰宇新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/globalnewstv2/playlist.m3u8"
+        ],
+        "number": "049",
+        "logo": "global-news.png",
+        "epg": "寰宇新聞台灣台",
+        "name": "寰宇新聞台灣台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-mirrortv/chunklist.m3u8"
+        ],
+        "number": "050",
+        "logo": "mnews.png",
+        "epg": "鏡電視新聞台",
+        "name": "鏡電視新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-etnews/chunklist.m3u8"
+        ],
+        "number": "051",
+        "logo": "ebc.png",
+        "epg": "東森新聞台",
+        "name": "東森新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/f-ctinews/chunklist.m3u8"
+        ],
+        "number": "052",
+        "logo": "cti.png",
+        "epg": "中天新聞台",
+        "name": "中天新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8"
+        ],
+        "number": "053",
+        "logo": "ftv.png",
+        "epg": "民視新聞台",
+        "name": "民視新聞台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/setnews/chunklist.m3u8"
+        ],
+        "number": "054",
+        "logo": "set.png",
+        "epg": "三立新聞台",
+        "name": "三立新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/f-tvbsn/chunklist.m3u8"
+        ],
+        "number": "055",
+        "logo": "tvbs.png",
+        "epg": "TVBS新聞台",
+        "name": "TVBS新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://125.227.210.55:8188/VideoInput/play.ts"
+        ],
+        "number": "056",
+        "logo": "tvbs.png",
+        "epg": "TVBS",
+        "name": "TVBS"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-etfinancial/chunklist.m3u8"
+        ],
+        "number": "057",
+        "logo": "ebc.png",
+        "epg": "東森財經新聞台",
+        "name": "東森財經新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/ustvhd/chunklist.m3u8"
+        ],
+        "number": "058",
+        "logo": "ustv.png",
+        "epg": "非凡新聞台",
+        "name": "非凡新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8"
+        ],
+        "number": "062",
+        "logo": "ebc.png",
+        "epg": "東森電影台",
+        "name": "東森電影台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8502/http/61.221.81.94:8088/hls/69/811/ch35.m3u8"
+        ],
+        "number": "063",
+        "logo": "vl.png",
+        "epg": "緯來電影台",
+        "name": "緯來電影台"
+      },
+      {
+        "urls": [
+          "https://z88.ubtvfans.com/live/rx1/373/72ff9f42bc18b4d3f46d9a4a0847564e/index.m3u8"
+        ],
+        "number": "064",
+        "logo": "lstime.png",
+        "epg": "龍祥電影台",
+        "name": "龍祥電影台"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8"
+        ],
+        "number": "065",
+        "logo": "hbo.png",
+        "epg": "HBO",
+        "name": "HBO"
+      },
+      {
+        "urls": [
+          "https://z88.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8"
+        ],
+        "number": "066",
+        "logo": "ebc.png",
+        "epg": "東森洋片台",
+        "name": "東森洋片台"
+      },
+      {
+        "urls": [
+          "https://z88.ubtvfans.com/live/rx1/1066/7bcad6f5cb60f69d6bed039e22bf90b6/index.m3u8"
+        ],
+        "number": "067",
+        "logo": "axn.png",
+        "epg": "AXN",
+        "name": "AXN"
+      },
+      {
+        "urls": [
+          "https://z88.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8"
+        ],
+        "number": "068",
+        "logo": "hollywood.png",
+        "epg": "好萊塢電影",
+        "name": "好萊塢電影"
+      },
+      {
+        "urls": [
+          "http://125.227.210.55:8151/VideoInput/play.ts"
+        ],
+        "number": "070",
+        "logo": "cinemax.png",
+        "epg": "CINEMAX",
+        "name": "CINEMAX"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv701"
+        ],
+        "number": "071",
+        "logo": "vl.png",
+        "epg": "緯來育樂台",
+        "name": "緯來育樂台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv721"
+        ],
+        "number": "072",
+        "logo": "vl.png",
+        "epg": "緯來體育台",
+        "name": "緯來體育台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv731"
+        ],
+        "number": "073",
+        "logo": "eleven-sports.png",
+        "epg": "Eleven Sports 1",
+        "name": "Eleven Sports 1"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv741"
+        ],
+        "number": "074",
+        "logo": "eleven-sports.png",
+        "epg": "Eleven Sports 2",
+        "name": "Eleven Sports 2"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv771"
+        ],
+        "number": "075",
+        "logo": "vl.png",
+        "epg": "緯來日本台",
+        "name": "緯來日本台"
+      },
+      {
+        "urls": [
+          "rtmp://f13h.mine.nu/sat/tv761"
+        ],
+        "number": "076",
+        "logo": "momo-tv.png",
+        "epg": "MOMO綜合台",
+        "name": "MOMO綜合台"
+      },
+      {
+        "urls": [
+          "http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8"
+        ],
+        "number": "081",
+        "logo": "fanstv.png",
+        "epg": "番薯電視台",
+        "name": "番薯電視台"
+      },
+      {
+        "urls": [
+          "http://60.248.91.20:8000/main"
+        ],
+        "number": "082",
+        "logo": "tltv.png",
+        "epg": "天良綜合台",
+        "name": "天良綜合台"
+      },
+      {
+        "urls": [
+          "http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8"
+        ],
+        "number": "086",
+        "logo": "btsnet.png",
+        "epg": "佛衛慈悲台",
+        "name": "佛衛慈悲台"
+      },
+      {
+        "urls": [
+          "http://61.216.67.119:1935/lifetv/lifetv.stream/manifest_w1802864311.m3u8"
+        ],
+        "number": "087",
+        "logo": "lifetv.png",
+        "epg": "生命電視台",
+        "name": "生命電視台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/ustvbiz/chunklist.m3u8"
+        ],
+        "number": "090",
+        "logo": "ustv.png",
+        "epg": "非凡商業台",
+        "name": "非凡商業台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=mtvhd_twn"
+        ],
+        "number": "096",
+        "logo": "mtv.png",
+        "epg": "MTV",
+        "name": "MTV"
+      },
+      {
+        "urls": [
+          "http://220.134.196.147:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8"
+        ],
+        "number": "097",
+        "logo": "animax.png",
+        "epg": "Animax",
+        "name": "Animax"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/liveabc/chunklist.m3u8"
+        ],
+        "number": "102",
+        "logo": "live-abc.png",
+        "epg": "ABC互動英語台",
+        "name": "ABC互動英語台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/eltv_hd/chunklist.m3u8"
+        ],
+        "number": "103",
+        "logo": "eltv.png",
+        "epg": "ELTV生活英語台",
+        "name": "ELTV生活英語台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/english/chunklist.m3u8"
+        ],
+        "number": "104",
+        "logo": "english.png",
+        "epg": "空中英語教室台",
+        "name": "空中英語教室台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/nickelodeon/chunklist.m3u8"
+        ],
+        "number": "105",
+        "logo": "nick.png",
+        "epg": "尼克兒童台",
+        "name": "尼克兒童台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-nicebingo/chunklist.m3u8"
+        ],
+        "number": "106",
+        "logo": "nice-bingo.png",
+        "epg": "靖洋卡通台",
+        "name": "靖洋卡通台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldencartoon/chunklist.m3u8"
+        ],
+        "number": "107",
+        "logo": "goldentv.png",
+        "epg": "靖天卡通台",
+        "name": "靖天卡通台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/davincil/chunklist.m3u8"
+        ],
+        "number": "109",
+        "logo": "davinci.png",
+        "epg": "DaVinci",
+        "name": "DaVinci",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/cstv_cartoon_t/chunklist.m3u"
+        ],
+        "number": "112",
+        "logo": "ltv.png",
+        "epg": "龍華卡通台",
+        "name": "龍華卡通台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/puppet_hd/chunklist.m3u8"
+        ],
+        "number": "118",
+        "logo": "kimkong.png",
+        "epg": "金光布袋戲",
+        "name": "金光布袋戲",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+        ],
+        "number": "119",
+        "logo": "dalitv.png",
+        "epg": "大立電視台",
+        "name": "大立電視台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/di2l/chunklist.m3u8"
+        ],
+        "number": "121",
+        "logo": "daai.png",
+        "epg": "大愛2台",
+        "name": "大愛2台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/goodtv2/chunklist.m3u8"
+        ],
+        "number": "122",
+        "logo": "good.png",
+        "epg": "好消息2台",
+        "name": "好消息2台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/congress-1/chunklist.m3u8"
+        ],
+        "number": "123",
+        "logo": "congress.png",
+        "epg": "國會頻道1",
+        "name": "國會頻道1",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/v-conch02/chunklist.m3u8"
+        ],
+        "number": "124",
+        "logo": "congress.png",
+        "epg": "國會頻道2",
+        "name": "國會頻道2",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8"
+        ],
+        "number": "130",
+        "logo": "wxtv.png",
+        "epg": "唯心電視台",
+        "name": "唯心電視台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/mtv_t/chunklist.m3u8"
+        ],
+        "number": "146",
+        "logo": "mtv-live.png",
+        "epg": "MTV Live",
+        "name": "MTV Live",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/mezzol/chunklist.m3u8"
+        ],
+        "number": "147",
+        "logo": "mezzo-live.png",
+        "epg": "Mezzo Live",
+        "name": "Mezzo Live",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/classica_hd/chunklist.m3u8"
+        ],
+        "number": "148",
+        "logo": "classica.png",
+        "epg": "古典音樂台",
+        "name": "古典音樂台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/music/chunklist.m3u8"
+        ],
+        "number": "150",
+        "logo": "fun-music.png",
+        "epg": "FUN流行音樂台",
+        "name": "FUN流行音樂台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/carfan_t/chunklist.m3u8"
+        ],
+        "number": "171",
+        "logo": "motorvision.png",
+        "epg": "車迷TV",
+        "name": "車迷TV",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=eltasport1_twn"
+        ],
+        "number": "200",
+        "logo": "elta-sport-1.png",
+        "epg": "愛爾達體育1台",
+        "name": "愛爾達體育1台"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=eltasport2_twn"
+        ],
+        "number": "201",
+        "logo": "elta-sport-2.png",
+        "epg": "愛爾達體育2台",
+        "name": "愛爾達體育2台"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=eltasport3_twn"
+        ],
+        "number": "202",
+        "logo": "elta-sport-3.png",
+        "epg": "愛爾達體育3台",
+        "name": "愛爾達體育3台"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=natgeowild_twn"
+        ],
+        "number": "203",
+        "logo": "elta-sport-4.png",
+        "epg": "愛爾達體育4台",
+        "name": "愛爾達體育4台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_golf_t/chunklist.m3u8"
+        ],
+        "number": "204",
+        "logo": "sportcast-blue.png",
+        "epg": "博斯高球一台",
+        "name": "博斯高球一台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_golf2_t/chunklist.m3u8"
+        ],
+        "number": "205",
+        "logo": "sportcast-red.png",
+        "epg": "博斯高球二台",
+        "name": "博斯高球二台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_tennis_t/chunklist.m3u8"
+        ],
+        "number": "206",
+        "logo": "sportcast-green.png",
+        "epg": "博斯網球台",
+        "name": "博斯網球台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_charm_t/chunklist.m3u8"
+        ],
+        "number": "207",
+        "logo": "sportcast-pink.png",
+        "epg": "博斯魅力網",
+        "name": "博斯魅力網",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_infinity_t/chunklist.m3u8"
+        ],
+        "number": "208",
+        "logo": "sportcast-orange.png",
+        "epg": "博斯無限台",
+        "name": "博斯無限台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_sports_t/chunklist.m3u8"
+        ],
+        "number": "209",
+        "logo": "sportcast-1.png",
+        "epg": "博斯運動一台",
+        "name": "博斯運動一台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/b_football_t/chunklist.m3u8"
+        ],
+        "number": "210",
+        "logo": "sportcast-2.png",
+        "epg": "博斯運動二台",
+        "name": "博斯運動二台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/tracesportl/chunklist.m3u8"
+        ],
+        "number": "211",
+        "logo": "trace-sport.png",
+        "epg": "Trace Sport Stars",
+        "name": "Trace Sport Stars",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/tslsportl/chunklist.m3u8"
+        ],
+        "number": "215",
+        "logo": "our-sport.png",
+        "epg": "智林體育台",
+        "name": "智林體育台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/camerabay/chunklist.m3u8"
+        ],
+        "number": "217",
+        "logo": "camerabay.png",
+        "epg": "麥卡貝網路電視",
+        "name": "麥卡貝網路電視",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/lion/chunklist.m3u8"
+        ],
+        "number": "218",
+        "logo": "camerabaysports.png",
+        "epg": "麥卡貝運動1台",
+        "name": "麥卡貝運動1台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/fubon/chunklist.m3u8"
+        ],
+        "number": "219",
+        "logo": "camerabaysports.png",
+        "epg": "麥卡貝運動2台",
+        "name": "麥卡貝運動2台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/dragons/chunklist.m3u8"
+        ],
+        "number": "220",
+        "logo": "camerabaysports.png",
+        "epg": "麥卡貝運動3台",
+        "name": "麥卡貝運動3台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/ci_t/chunklist.m3u8"
+        ],
+        "number": "259",
+        "logo": "crime.png",
+        "epg": "罪案偵緝頻道",
+        "name": "罪案偵緝頻道",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/pet_club_tv/chunklist.m3u8"
+        ],
+        "number": "262",
+        "logo": "petclub.png",
+        "epg": "PET CLUB TV",
+        "name": "PET CLUB TV",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/livetime/chunklist.m3u8"
+        ],
+        "number": "264",
+        "logo": "lifetime.png",
+        "epg": "Lifetime",
+        "name": "Lifetime",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldenworld/chunklist.m3u8"
+        ],
+        "number": "265",
+        "logo": "familyfun.png",
+        "epg": "靖天國際台",
+        "name": "靖天國際台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/gstv/chunklist.m3u8"
+        ],
+        "number": "266",
+        "logo": "gstv.png",
+        "epg": "幸福空間居家台",
+        "name": "幸福空間居家台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/love_nature_t/chunklist.m3u8"
+        ],
+        "number": "269",
+        "logo": "love-nature.png",
+        "epg": "Love Nature",
+        "name": "Love Nature",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/ftvtravel/chunklist.m3u8"
+        ],
+        "number": "273",
+        "logo": "ftv-travel.png",
+        "epg": "民視旅遊台",
+        "name": "民視旅遊台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=foodplanet_twn"
+        ],
+        "number": "275",
+        "logo": "food-planet.png",
+        "epg": "美食星球",
+        "name": "美食星球"
+      },
+      {
+        "urls": [
+          "https://z02.ubtvfans.com/live/rx1/1494/12d6a963435f08d46af4b54fac42dea9/index.m3u8"
+        ],
+        "number": "279",
+        "logo": "evetv.png",
+        "epg": "EYE 旅遊台",
+        "name": "EYE 旅遊台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/tv5monde/chunklist.m3u8"
+        ],
+        "number": "284",
+        "logo": "style.png",
+        "epg": "時尚生活台",
+        "name": "時尚生活台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldeninfo/chunklist.m3u8"
+        ],
+        "number": "302",
+        "logo": "goldentv-news.png",
+        "epg": "靖天資訊台",
+        "name": "靖天資訊台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldencomplex/chunklist.m3u8"
+        ],
+        "number": "303",
+        "logo": "goldentv.png",
+        "epg": "靖天綜合台",
+        "name": "靖天綜合台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldenedunrec/chunklist.m3u8"
+        ],
+        "number": "304",
+        "logo": "goldentv.png",
+        "epg": "靖天育樂台",
+        "name": "靖天育樂台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/smart/chunklist.m3u8"
+        ],
+        "number": "305",
+        "logo": "smart.png",
+        "epg": "Smart知識台",
+        "name": "Smart知識台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/program/chunklist.m3u8"
+        ],
+        "number": "306",
+        "logo": "ftv-variety.png",
+        "epg": "民視綜藝台",
+        "name": "民視綜藝台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-ctvclassic/chunklist.m3u8"
+        ],
+        "number": "308",
+        "logo": "ctv-classic.png",
+        "epg": "中視經典台",
+        "name": "中視經典台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-ctvbravo/chunklist.m3u8"
+        ],
+        "number": "311",
+        "logo": "ctv-bravo.png",
+        "epg": "中視菁采台",
+        "name": "中視菁采台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/f-tvbs-wonderful/chunklist.m3u8"
+        ],
+        "number": "312",
+        "logo": "tvbs.png",
+        "epg": "TVBS精采台",
+        "name": "TVBS精采台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/ftv_098/chunklist.m3u8"
+        ],
+        "number": "314",
+        "logo": "gtv.png",
+        "epg": "八大精彩台",
+        "name": "八大精彩台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/ftvm/chunklist.m3u8"
+        ],
+        "number": "316",
+        "logo": "ftv01.png",
+        "epg": "民視第一台",
+        "name": "民視第一台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/fourCZn_n/chunklist.m3u8"
+        ],
+        "number": "317",
+        "logo": "ftv02.png",
+        "epg": "民視台灣台",
+        "name": "民視台灣台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldenjoy/chunklist.m3u8"
+        ],
+        "number": "318",
+        "logo": "nice.png",
+        "epg": "靖天歡樂台",
+        "name": "靖天歡樂台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/ntdtv/chunklist.m3u8"
+        ],
+        "number": "320",
+        "logo": "ntd.png",
+        "epg": "新唐人亞太台",
+        "name": "新唐人亞太台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://noz.hk3.345888.xyz.cdn.cloudflare.net/Smartv.php?id=eltayingju_twn"
+        ],
+        "number": "355",
+        "logo": "elta2.png",
+        "epg": "愛爾達影劇台",
+        "name": "愛爾達影劇台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/gc_moviel/chunklist.m3u8"
+        ],
+        "number": "357",
+        "logo": "jydrama.png",
+        "epg": "靖洋戲劇台",
+        "name": "靖洋戲劇台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/ptsdramal_t/chunklist.m3u8"
+        ],
+        "number": "359",
+        "logo": "pts.png",
+        "epg": "公視戲劇台",
+        "name": "公視戲劇台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/drama/chunklist.m3u8"
+        ],
+        "number": "361",
+        "logo": "ftv-drama.png",
+        "epg": "民視影劇台",
+        "name": "民視影劇台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/f-goldenjapan/chunklist.m3u8"
+        ],
+        "number": "371",
+        "logo": "goldentv.png",
+        "epg": "靖天日本台",
+        "name": "靖天日本台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/eltaent/chunklist.m3u8"
+        ],
+        "number": "375",
+        "logo": "elta3.png",
+        "epg": "愛爾達娛樂台",
+        "name": "愛爾達娛樂台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/kmtv/chunklist.m3u8"
+        ],
+        "number": "377",
+        "logo": "kmtv.png",
+        "epg": "韓國娛樂台",
+        "name": "韓國娛樂台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/extreme/chunklist.m3u8"
+        ],
+        "number": "384",
+        "logo": "ROCK-Action.png",
+        "epg": "ROCK Action",
+        "name": "ROCK Action",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "https://tvlive2-cdn.momoshop.com.tw/live-http/_definst_/vod169_Live/live/playlist.m3u8"
+        ],
+        "number": "398",
+        "logo": "momo-Shopping.png",
+        "epg": "MOMO購物1台",
+        "name": "MOMO購物1台"
+      },
+      {
+        "urls": [
+          "https://tvlive2-cdn.momoshop.com.tw/live-http/_definst_/vod169_Live/live2/playlist.m3u8"
+        ],
+        "number": "399",
+        "logo": "momo-Shopping.png",
+        "epg": "MOMO購物2台",
+        "name": "MOMO購物2台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/v-ttvnews/chunklist.m3u8"
+        ],
+        "number": "503",
+        "logo": "ttv.png",
+        "epg": "台視新聞台",
+        "name": "台視新聞台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/ctsnews_hd/chunklist.m3u8"
+        ],
+        "number": "506",
+        "logo": "cts.png",
+        "epg": "華視新聞資訊台",
+        "name": "華視新聞資訊台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/v-ttvfinancial/chunklist.m3u8"
+        ],
+        "number": "521",
+        "logo": "ttv.png",
+        "epg": "台視財經台",
+        "name": "台視財經台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/cnbc/chunklist.m3u8"
+        ],
+        "number": "554",
+        "logo": "cnbc.png",
+        "epg": "CNBC",
+        "name": "CNBC",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/voa/chunklist.m3u8"
+        ],
+        "number": "555",
+        "logo": "voa.png",
+        "epg": "VOA-美國之音",
+        "name": "VOA-美國之音",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/Smithsonian/chunklist.m3u8"
+        ],
+        "number": "558",
+        "logo": "smithsonian.png",
+        "epg": "Smithsonian",
+        "name": "Smithsonian",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/cnexl/chunklist.m3u8"
+        ],
+        "number": "600",
+        "logo": "cnex.png",
+        "epg": "CNEX",
+        "name": "CNEX",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/moviefandigital_t/chunklist.m3u8"
+        ],
+        "number": "601",
+        "logo": "caichang-doc.png",
+        "epg": "影迷數位紀實台",
+        "name": "影迷數位紀實台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://onz.hk3.xyyun.linkpc.net/Smartv.php?id=meiyamovie_twn"
+        ],
+        "number": "610",
+        "logo": "mei-ah.png",
+        "epg": "美亞電影台",
+        "name": "美亞電影台"
+      },
+      {
+        "urls": [
+          "https://z02.ubtvfans.com/live/rx1/311/1c999026db4aa94fc7b3eab2a9428b59/index.m3u8"
+        ],
+        "number": "611",
+        "logo": "ltv.png",
+        "epg": "龍華電影台",
+        "name": "龍華電影台"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/gdimagel/chunklist.m3u8"
+        ],
+        "number": "613",
+        "logo": "goldentv.png",
+        "epg": "靖天映畫台",
+        "name": "靖天映畫台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/gdmoviel_t/chunklist.m3u8"
+        ],
+        "number": "614",
+        "logo": "goldentv.png",
+        "epg": "靖天電影台",
+        "name": "靖天電影台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/amc_hd/chunklist.m3u8"
+        ],
+        "number": "619",
+        "logo": "amc.png",
+        "epg": "AMC",
+        "name": "AMC",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/hits/chunklist.m3u8"
+        ],
+        "number": "620",
+        "logo": "hits.png",
+        "epg": "HITS",
+        "name": "HITS",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/cinema/chunklist.m3u8"
+        ],
+        "number": "627",
+        "logo": "cmw.png",
+        "epg": "CinemaWorld",
+        "name": "CinemaWorld",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive/cmoviel_t/chunklist.m3u8"
+        ],
+        "number": "629",
+        "logo": "caichang.png",
+        "epg": "采昌影劇台",
+        "name": "采昌影劇台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/encorel/chunklist.m3u8"
+        ],
+        "number": "630",
+        "logo": "caichang-fans.png",
+        "epg": "影迷數位電影台",
+        "name": "影迷數位電影台",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      },
+      {
+        "urls": [
+          "http://strm.wowotv.tw/gtlive2/mycinema/chunklist.m3u8"
+        ],
+        "number": "631",
+        "logo": "mce.png",
+        "epg": "我的歐洲電影",
+        "name": "我的歐洲電影",
+        "ua": "VasCreativePlayer/02.13.082 (Linux;Android 9) ExoPlayerLib/2.11.7"
+      }
+    ],
+    "id": 1,
+    "logo": "http://onz.hk3.xyyun.linkpc.net/img/tw.png",
+    "name": "台灣頻道"
+    }
+]
