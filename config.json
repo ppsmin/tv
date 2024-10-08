@@ -1,12 +1,11 @@
 ﻿{
   "lives": [
     {
-      "name": "台灣直播",
-      "type": 1,
-      "url": "https://raw.githubusercontent.com/ppsmin/tv/refs/heads/main/live.json",
-      "epg": "https://epg.112114.xyz/?ch={epg}&date={date}",
-      "logo": "https://onz.345889.xyz/img/{logo}",
-      "core": {
+       "name": "台灣直播",
+       "type": 1,
+       "url": "https://raw.githubusercontent.com/ppsmin/tv/refs/heads/main/live.json",
+       "epg": "https://epg.112114.xyz/?ch={epg}&date={date}",
+       "core": {
         "auth": "local://tvbus",
         "name": "fongmi",
         "pass": "fongmi",
