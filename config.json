@@ -4,7 +4,7 @@
        "name": "台灣直播",
        "type": 1,
        "url": "https://raw.githubusercontent.com/ppsmin/tv/refs/heads/main/live.json",
-       "logo": "https://github.com/ppsmin/img/{logo}",
+      "logo": "https://onz.345889.xyz/img/{logo}",
        "epg": "https://epg.112114.xyz/?ch={epg}&date={date}",
        "core": {
         "auth": "local://tvbus",
